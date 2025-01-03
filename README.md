@@ -37,6 +37,27 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 * 3-6 March 2025, Washington, D.C.: [DOE 2025 Joint ARM User Facility and ASR PI Meeting](https://asr.science.energy.gov/meetings/joint-arm-asr-meeting/2025-march)
   * Presenting a poster on my recent work that evaluates microphysical sources for aggressive precipitation formation in deep convection simulations
 
+# Awards/Honors Received
+* 1st place recipient of Best Student Poster at AMS 100th Annual Meeting, Wayne Schubert
+Symposium, 2020
+* 2nd place recipient of Best Student Poster at AMS 18th Conference on Mesoscale
+Processes, 2019
+* Participant, Department of Energy (DOE) Atmospheric Radiation Measurement (ARM)
+Program’s Summer Training and Science Applications Event, 2018
+* Dr. Norihiko Fukuta Award for Outstanding Graduate Student Publication, Department
+of Atmospheric Sciences, University of Utah, 2017
+* National Oceanic and Atmospheric Administration (NOAA) Ernest F. Hollings Scholar,
+2012-2014
+* Academic Excellence Award (graduating senior with highest overall GPA and
+exceptional record in meteorology), University of South Alabama, 2014
+* National Aeronautics and Space Administration (NASA) Space Grant Scholar, 2013
+* American Meteorological Society (AMS) Saraswati Bahethi Scholarship, 2013
+* National Oceanic and Atmospheric Administration (NOAA) Student Science &
+Education Symposium Honorable Mention, 2013
+* Dr. Bill Williams Endowment Scholarship (junior-level student achievement of high
+overall GPA and an exceptional record in meteorology), University of South Alabama, 2013
+
+
 <a href="https://www.linkedin.com/in/mckenna-stanford/">
   <img src="/linkedin_logo.png" width="50" />
 </a>
