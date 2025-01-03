@@ -35,7 +35,8 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/mckenna-stanford/)
-[]: # [![GoogleScholar](<img style="float: right" src="https://github.com/mckenna-stanford/mckenna-stanford.github.io/blob/main/Google_Scholar_logo.png" alt="Sublime's custom image" />)](https://scholar.google.com/citations?user=K5LDs5UAAAAJ&hl=en)
+[![GoogleScholar](<img style="float: right" src="https://github.com/mckenna-stanford/mckenna-stanford.github.io/blob/main/Google_Scholar_logo.png" alt="Sublime's custom image" />
+)](https://scholar.google.com/citations?user=K5LDs5UAAAAJ&hl=en)
 
   
 <img style="float: right" src="https://github.com/mckenna-stanford/mckenna-stanford.github.io/blob/main/Google_Scholar_logo.png" alt="Sublime's custom image" />
