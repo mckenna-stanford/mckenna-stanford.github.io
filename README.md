@@ -32,4 +32,8 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 * 2020 - 2024: Postdoctoral Research Scientist, Columbia University
 * 2014 - 2020: Graduate Research Assistant, University of Utah
 
+
+
+[![LinkedIn](link to image on GH)]([link to your URL](https://www.linkedin.com/in/mckenna-stanford/))
+
   
