@@ -46,6 +46,6 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.researchgate.net/profile/Mckenna-Stanford">
-  <img src="/research_gate_logo.png" width="135" />
+  <img src="/research_gate_logo.png" width="75" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
