@@ -1,6 +1,6 @@
 # About Me
 
-I am an atmospheric and climate scientist with a focus at the interesection of observations and numerical modeling. My primary research interests include cloud microphysics, deep convective processes, and physics parameterization development, with an overarching goal to utilize high-quality measurements (in situ and remote sensing) to constrain cloud phenomena across scales ranging from the climate system to individual ice crystals. 
+I am an atmospheric and climate scientist at the Pacific Northwest National Laboratory with a focus at the interesection of observations and numerical modeling. My primary research interests include cloud microphysics, deep convective processes, and physics parameterization development, with an overarching goal to utilize high-quality measurements (in situ and remote sensing) to constrain cloud phenomena across scales ranging from the climate system to individual ice crystals. 
 
 # Publications
 
