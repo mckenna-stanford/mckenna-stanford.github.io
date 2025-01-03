@@ -23,9 +23,9 @@ Stanford, M. W., Morrison, H., Varble, A., Berner, J., Wu, W., McFarquhar, G., &
 Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboeck, A., Potts, R., and Protat, A., 2017: A ubiquitous ice size bias in simulations of tropical deep convection. *Atmos. Chem. Phys.*, **17**, 9599–9621, [doi:10.5194/acp-17-9599-2017](https://acp.copernicus.org/articles/17/9599/2017/acp-17-9599-2017.html).
 
 # Education
-* Ph.D., Atmospheric Sciences, University of Utah, 2020. Dissertation title: "*Stochastic parameterization in kilometer-scale simulations of deep convection*"
-* M.S., Atmosphierc Sciences, University of Utah, 2016. Thesis title: "*Evaluation of simulated tropical convective updraft hydrometeor properties using aircraft observations*"
-* B.S., Meteorology, University of South Alabama, 2014.
+* Ph.D., Atmospheric Sciences, University of Utah, Salt Lake City, UT, 2020. Dissertation title: "*Stochastic parameterization in kilometer-scale simulations of deep convection*"
+* M.S., Atmosphierc Sciences, University of Utah, Salt Lake City, UT, 2016. Thesis title: "*Evaluation of simulated tropical convective updraft hydrometeor properties using aircraft observations*"
+* B.S., Meteorology (Major), Mathematics (Minor), University of South Alabama, Mobile, AL, 2014.
 
 # Professional Experience
 * 2024 - Present: Earth Scientist, Pacific Northwest National Laboratory
