@@ -40,7 +40,7 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 <a href="https://scholar.google.com/citations?user=K5LDs5UAAAAJ&hl=en">
   <img src="/google_scholar_logo.png" width="200" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://orcid.org/0000-0001-8697-4364">
   <img src="/orcid_logo.png" width="150" />
 </a>
