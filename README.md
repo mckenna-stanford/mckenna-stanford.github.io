@@ -35,7 +35,7 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 # Upcoming Meetings
 
 * 3-6 March 2025, Washington, D.C.: [DOE 2025 Joint ARM User Facility and ASR PI Meeting](https://asr.science.energy.gov/meetings/joint-arm-asr-meeting/2025-march)
-  * ppp
+  * Presenting a poster on my recent work that evaluates microphysical sources for aggressive precipitation formation in deep convection simulations
 
 <a href="https://www.linkedin.com/in/mckenna-stanford/">
   <img src="/linkedin_logo.png" width="50" />
