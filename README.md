@@ -37,7 +37,7 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 * 3-6 March 2025, Washington, D.C.: [DOE 2025 Joint ARM User Facility and ASR PI Meeting](https://asr.science.energy.gov/meetings/joint-arm-asr-meeting/2025-march)
   * Presenting a poster on my recent work that evaluates microphysical sources for aggressive precipitation formation in deep convection simulations
 
-# Awards/Honors Received
+# Awards/Honors
 * 1st place recipient of Best Student Poster at AMS 100th Annual Meeting, Wayne Schubert
 Symposium, 2020
 * 2nd place recipient of Best Student Poster at AMS 18th Conference on Mesoscale
