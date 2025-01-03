@@ -5,7 +5,7 @@ I am an atmospheric and climate scientist at the Pacific Northwest National Labo
 # Publications
 
 ### Submitted / In Review
-Stanford, M. W., A. Fridlind, A. Ackerman, B. van Diedenhoven, Q. Xiao, J. Wang, T. Matsui, D. Hernandez-Deckers, and P. Lawson, 2024: Warm-phase microphysical evolution in large eddy simulations of tropical cumulus congestus: Evaluating drop size distribution evolution using polarimetery retrievals, in situ measurements, and a thermal-based framework. *Atmos. Chem. Phys.*, submitted.
+Stanford, M. W., A. Fridlind, A. Ackerman, B. van Diedenhoven, Q. Xiao, J. Wang, T. Matsui, D. Hernandez-Deckers, and P. Lawson, 2024: Warm-phase microphysical evolution in large eddy simulations of tropical cumulus congestus: Evaluating drop size distribution evolution using polarimetery retrievals, in situ measurements, and a thermal-based framework. *Atmos. Chem. Phys.*, *in review*.
 
 ### 2024
 Stanford, M. W., A. C. Varble, and H. Morrison, 2024: Evaluation of a stochastic mixing scheme in the deep convective gray zone using a tropical oceanic deep convection case study. *J. Adv. Model. Earth Syst.*, **16**, e2023MS003748, [doi:10.1029/2023MS003748](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003748).
