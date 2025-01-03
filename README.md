@@ -34,6 +34,6 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 
 
 
-[![LinkedIn]([link to image on GH](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg))](https://www.linkedin.com/in/mckenna-stanford/)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/mckenna-stanford/)
 
   
