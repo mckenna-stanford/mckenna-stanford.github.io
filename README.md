@@ -26,3 +26,8 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 * Ph.D., Atmospheric Sciences, University of Utah, 2020. Dissertation title: "*Stochastic parameterization in kilometer-scale simulations of deep convection*"
 * M.S., Atmosphierc Sciences, University of Utah, 2016. Thesis title: "*Evaluation of simulated tropical convective updraft hydrometeor properties using aircraft observations*"
 * B.S., Meteorology, University of South Alabama, 2014.
+
+# Professional Experience
+* 2024 - Present: Earth Scientist, Pacific Northwest National Laboratory
+* 2020 - 2024: Postdoctoral Research Scientist, Columbia University
+* 2014 - 2020: Graduate Research Assistant, University of Utah
