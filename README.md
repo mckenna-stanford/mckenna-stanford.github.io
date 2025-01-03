@@ -24,7 +24,7 @@ Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D., Schwarzenboec
 
 # Education
 * Ph.D., Atmospheric Sciences, University of Utah, Salt Lake City, UT, 2020. Dissertation title: "*Stochastic parameterization in kilometer-scale simulations of deep convection*"
-* M.S., Atmosphierc Sciences, University of Utah, Salt Lake City, UT, 2016. Thesis title: "*Evaluation of simulated tropical convective updraft hydrometeor properties using aircraft observations*"
+* M.S., Atmospheric Sciences, University of Utah, Salt Lake City, UT, 2016. Thesis title: "*Evaluation of simulated tropical convective updraft hydrometeor properties using aircraft observations*"
 * B.S., Meteorology (Major), Mathematics (Minor), University of South Alabama, Mobile, AL, 2014.
 
 # Professional Experience
