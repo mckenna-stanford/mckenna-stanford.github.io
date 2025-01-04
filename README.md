@@ -1,7 +1,7 @@
 # About Me
 
 I am an atmospheric and climate scientist at the Pacific Northwest National Laboratory. My work focuses on using high-quality remote sensing and in situ observational platforms to improve cloud process representation in numerical weather prediction and climate models across a range of spatiotemporal scales spanning those of an individual ice crystal up to the climate system. Specific research foci include cloud microphysics, deep convective processes, physics parameterization development, and aerosol-cloud interactions.
-#### Contact: mckenna.stanford@pnnl.gov
+**Contact:** mckenna.stanford@pnnl.gov
 
 # Publications
 
