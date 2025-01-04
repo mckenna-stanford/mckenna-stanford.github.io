@@ -1,23 +1,7 @@
-<a href="https://www.linkedin.com/in/mckenna-stanford/">
-  <img src="/linkedin_logo.png" width="50" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=K5LDs5UAAAAJ&hl=en">
-  <img src="/google_scholar_logo.png" width="200" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://orcid.org/0000-0001-8697-4364">
-  <img src="/orcid_logo.png" width="135" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/Mckenna-Stanford">
-  <img src="/research_gate_logo.png" width="50" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 # About Me
 
 I am an atmospheric and climate scientist at the Pacific Northwest National Laboratory. My work focuses on using high-quality remote sensing and in situ observational platforms to improve cloud process representation in numerical weather prediction and climate models across a range of spatiotemporal scales spanning those of an individual ice crystal up to the climate system. Specific research foci include cloud microphysics, deep convective processes, physics parameterization development, and aerosol-cloud interactions.
+#### Contact: mckenna.stanford@pnnl.gov
 
 # Publications
 
