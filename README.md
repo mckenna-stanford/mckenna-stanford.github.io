@@ -58,48 +58,16 @@ Education Symposium Honorable Mention, 2013
 overall GPA and an exceptional record in meteorology), University of South Alabama, 2013
 
 # Selected Conference Presentations and Proceedings
-* **Stanford, M.**, Ann Fridlind, Andrew Ackerman, Qian Xiao, Jian Wang, Toshihisa Matsui, and Bastiaan
-van Diedenhoven: Evaluating Aerosol-constrained Bulk- and Bin-simulated Drop Size
-Distributions against Aircraft Observations of Tropical Cumulus Congestus, talk presented at the
-2024 Annual AMS Meeting, Baltimore, MD, 31 January 2024
-* **Stanford, M.**, Ann Fridlind, Israel Silber, Andrew Ackerman, Greg Cesana, Johannes Mulmenstadt,
-Alain Protat, Simon Alexander, and Adrian McDonald: Evaluating Precipitation and Cloud
-Occurrence in the GISS-ModelE3 ESM against MICRE Observations, 2023 Joint ARM User
-Facility and ASR PI Meeting, Rockville, MD, 8 August 2023 (invited talk)
-* **Stanford, M.**, Ann Fridlind, Israel Silber, Andrew Ackerman, Greg Cesana, Johannes Mulmenstadt,
-Alain Protat, Simon Alexander, and Adrian McDonald: Constraining Southern Ocean
-Precipitation in GISS-ModelE3 using Ground-based Observations, Karlsruhe Institute of
-Technology’s Institute of Meteorology and Climate Research, Karlsruhe, Germany, 26 April 2023
-(invited talk)
-* **Stanford, M.**, Ann Fridlind, Israel Silber, Andrew Ackerman, Greg Cesana, Johannes Mulmenstadt,
-Alain Protat, Simon Alexander, and Adrian McDonald: Constraining Southern Ocean
-Precipitation in GISS-ModelE3 using Ground-based Observations, Stony Brook University’s
-School of Marine and Atmospheric Sciences “Topics in Atmospheric and Oceanic Sciences
-(TAOS)” Seminar Series, Stony Brook, NY, 8 February 2023 (invited talk)
-* **Stanford, M.**, Ann Fridlind, Toshihisa Matsui, Jian Wang, Qian Xiao, and Bastiaan Van Diedenhoven,
-2022: Evaluating Simulated Microphysical Evolution of Tropical Cumulus Congestus with
-Observationally Constrained Aerosol Input, poster presented at the AMS 16th Conference on
-Cloud Physics/16th Conference on Atmospheric Radiation, Collective Madison Meeting,
-Madison, WI, 8-12 August 2022.
-* **Stanford, M.**, Greg Cesana, Ann Fridlind, Israel Silber, Andrew Ackerman, and Max Kelley, 2022:
-Adapting the Space-Based CASCCAD Cumulus-Stratocumulus Discrimination Algorithm for
-Ground-Based Instrumentation over Macquarie Island, poster presented at the Cloud Feedback
-Model Intercomparison Project (CFMIP) 2022 Meeting on Clouds, Precipitation, Circulation,
-and Climate Sensitivity, Seattle, WA, 19-22 July 2022.
-* **Stanford, M.**, Israel Silber, Ann Fridlind, Greg Cesana, Andrew Ackerman, and Max Kelley, 2022:
-Combining Ground-based Instrumentation with a Global Climate Model Instrument Simulator to
-Constrain Precipitation Processes over the Southern Ocean, talk presented at the Cloud Feedback
-Model Intercomparison Project (CFMIP) 2022 Meeting on Clouds, Precipitation, Circulation,
-and Climate Sensitivity, Seattle, WA, 19-22 July 2022.
-* **Stanford, M.**, Ann Fridlind, Qian Xiao, Jian Wang, Toshihisa Matsui, and Bastiaan Van Diedenhoven,
-2022: Evaluating Bimodal DSDs in Observationally Constrained NU-WRF Simulations of
-Cumulus Congestus during RF14, talk presented at the NASA CAMP2Ex Science Team Meeting,
-Pasadena, CA, 12-15 July 2022.
-* **Stanford, M.**, Ann Fridlind, Alice Keinert, Thomas Leisner, Alexei Kiselev, Daniel Hernandez-Deckers,
-Toshihisa Matsui, and Andrew Ackerman, 2022: Ice Multiplication by Drop Shattering: Parcel
-Model Results Based on Guidance from Recent Laboratory Measurements, poster presented at
-the 3rd Pan-GASS Meeting on Understanding and Modeling Atmospheric Processes, Monterey,
-CA, 25-29 July 2022.
+* **Stanford, M. W.**, A. Fridlind, A. Ackerman, B. van Diedenhoven, Q. Xiao, J. Wang, T. Matsui, D. Hernandez-Deckers, and P. Lawson: Novel Airborne Polarimetry Retrievals as Constraints on Drop Size Distributions in Aerosol-Aware Large-Eddy Simulations and a Foundational Framework for Use of Space-based Retrievals to Evaluate Earth System Models, US CLIVAR Micro2Macro Workshop, Laramie, Wyoming, 28-30 October, 2024 (poster)
+* **Stanford, M. W.**, A. Fridlind, A. Ackerman, Qian Xiao, Jian Wang, Toshihisa Matsui, and Bastiaan van Diedenhoven: Evaluating Aerosol-constrained Bulk- and Bin-simulated Drop Size Distributions against Aircraft Observations of Tropical Cumulus Congestus, 2024 Annual AMS Meeting, Baltimore, MD, *31 January 2024* (talk)
+* **Stanford, M. W.**, A. Fridlind, I. Silber, A. Ackerman, G. Cesana, J. Mülmenstädt, A. Protat, S. Alexander, and A. McDonald: Evaluating Precipitation and Cloud Occurrence in the GISS-ModelE3 ESM against MICRE Observations, 2023 Joint ARM User Facility and ASR PI Meeting, Rockville, MD, 8 August 2023 **(invited talk)**
+* **Stanford, M. W.**, A. Fridlind, I. Silber, A.Ackerman, G. Cesana, J. Mülmenstädt, A. Protat, S. Alexander, and A. McDonald: Constraining Southern Ocean Precipitation in GISS-ModelE3 using Ground-based Observations, Karlsruhe Institute of Technology’s Institute of Meteorology and Climate Research, Karlsruhe, Germany, 26 April 2023 **(invited talk)**
+* **Stanford, M. W.**, A. Fridlind, I.Silber, A. Ackerman, G. Cesana, J. Mülmenstädt, A. Protat, S. Alexander, and A. McDonald: Constraining Southern Ocean Precipitation in GISS-ModelE3 using Ground-based Observations, Stony Brook University’s School of Marine and Atmospheric Sciences “Topics in Atmospheric and Oceanic Sciences (TAOS)” Seminar Series, Stony Brook, NY, 8 February 2023 **(invited talk)**
+* **Stanford, M. W.**, A. Fridlind, T. Matsui, J. Wang, Q. Xiao, and B. van Diedenhoven, 2022: Evaluating Simulated Microphysical Evolution of Tropical Cumulus Congestus with Observationally Constrained Aerosol Input, AMS 16th Conference on Cloud Physics/16th Conference on Atmospheric Radiation, Collective Madison Meeting, Madison, WI, 8-12 August 2022 (poster)
+* **Stanford, M. W.**, G. Cesana, A. Fridlind, I. Silber, A. Ackerman, and M. Kelley, 2022: Adapting the Space-Based CASCCAD Cumulus-Stratocumulus Discrimination Algorithm for Ground-Based Instrumentation over Macquarie Island, 2022 Cloud Feedback Model Intercomparison Project (CFMIP) Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, Seattle, WA, 19-22 July 2022 (poster)
+* **Stanford, M. W.**, I. Silber, A. Fridlind, G. Cesana, A. Ackerman, and M. Kelley, 2022: Combining Ground-based Instrumentation with a Global Climate Model Instrument Simulator to Constrain Precipitation Processes over the Southern Ocean, 2022 Cloud Feedback Model Intercomparison Project (CFMIP) Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, Seattle, WA, 19-22 July 2022 (talk)
+* **Stanford, M. W.**, A. Fridlind, Q. Xiao, J. Wang, T. Matsui, and B. van Diedenhoven, 2022: Evaluating Bimodal DSDs in Observationally Constrained NU-WRF Simulations of Cumulus Congestus during RF14, NASA CAMP2Ex Science Team Meeting, Pasadena, CA, 12-15 July 2022 (talk)
+* **Stanford, M. W.**, A. Fridlind, A. Keinert, T. Leisner, A. Kiselev, D. Hernandez-Deckers, T. Matsui, and A. Ackerman, 2022: Ice Multiplication by Drop Shattering: Parcel Model Results Based on Guidance from Recent Laboratory Measurements,3rd Pan-GASS Meeting on Understanding and Modeling Atmospheric Processes, Monterey, CA, 25-29 July 2022 (poster)
 
 <a href="https://www.linkedin.com/in/mckenna-stanford/">
   <img src="/linkedin_logo.png" width="50" />
