@@ -84,6 +84,7 @@ Instrumentation over Macquarie Island, *AGU Fall 2021 Meeting*, New Orleans, LA,
 * **Stanford, M. W.**, and A. C. Varble, 2016: Evaluation of Simulated Tropical Convective Updraft Properties using HAIC-HIWC Aircraft Observations, Abstract 6, *32nd Conference on Hurricanes and Tropical Meteorology, Amer. Meteor. Soc.*, San Juan, PR, April 17-22, 2016 (poster)
 * **Stanford, M. W.**, J. S. Schaumann, and J. P. Gagan, 2014: A Three-Ingredients Approach to Anticipating Mesovortex Genesis, Abstract S124, *13th Annual AMS Student Conference*, Atlanta, GA, February 1-2, 2014 (poster)
 * **Stanford, M. W.**, J. S. Schaumann, and J. P. Gagan, 2013: Utility of 0-3 km Bulk Shear Vectors as Predictors for Quasi-Linear Convective System Tornadoes, *NOAA Student Science & Education Symposium*, Silver Spring, MD, July 30 – August 1, 2013 (talk)
+* **Stanford, M. W.**, and C. M. Shafer, 2013: Sensitivities of practically perfect probabilities of severe weather, *10th Southeastern Coastal and Atmospheric Processes Symposium*, Mobile, AL, February 22-23, 2013 (poster)
 
 <a href="https://www.linkedin.com/in/mckenna-stanford/">
   <img src="/linkedin_logo.png" width="50" />
