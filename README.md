@@ -6,8 +6,8 @@ I am an atmospheric and climate scientist at the Pacific Northwest National Labo
 
 # Publications
 
-### Submitted / In Review
-Stanford, M. W., A. Fridlind, A. Ackerman, B. van Diedenhoven, Q. Xiao, J. Wang, T. Matsui, D. Hernandez-Deckers, and P. Lawson, 2024: Warm-phase microphysical evolution in large eddy simulations of tropical cumulus congestus: Evaluating drop size distribution evolution using polarimetery retrievals, in situ measurements, and a thermal-based framework. *Atmos. Chem. Phys.*, *in review*.
+### 2025
+Stanford, M. W., A. Fridlind, A. Ackerman, B. van Diedenhoven, Q. Xiao, J. Wang, T. Matsui, D. Hernandez-Deckers, and P. Lawson, 2024: Warm-phase microphysical evolution in large eddy simulations of tropical cumulus congestus: Evaluating drop size distribution evolution using polarimetery retrievals, in situ measurements, and a thermal-based framework. *Atmos. Chem. Phys.*, **25**, 11199–11231, [doi:10.5194/acp-25-11199-2025](https://acp.copernicus.org/articles/25/11199/2025/).
 
 ### 2024
 Stanford, M. W., A. C. Varble, and H. Morrison, 2024: Evaluation of a stochastic mixing scheme in the deep convective gray zone using a tropical oceanic deep convection case study. *J. Adv. Model. Earth Syst.*, **16**, e2023MS003748, [doi:10.1029/2023MS003748](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003748).
@@ -36,8 +36,8 @@ Stanford, M. W., A. Varble, E. Zipser, J. W. Strapp, D. Leroy, A. Schwarzenboeck
 
 # Upcoming Meetings
 
-* 3-6 March 2025, Washington, D.C.: [DOE 2025 Joint ARM User Facility and ASR PI Meeting](https://asr.science.energy.gov/meetings/joint-arm-asr-meeting/2025-march)
-  * Presenting a poster on my recent work that evaluates microphysical sources for aggressive precipitation formation in deep convection simulations
+* 25-29 January 2026, Houston, TX: [2026 Annual American Meteorological Society Conference](https://annual.ametsoc.org/2026/)
+  * Giving a talk titled "Bulk Microphysical Sources of Overproductive Precipitation in Simulated Cumulus Congestus" during the Third Symposium on Cloud Physics -- [Abstract](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/466283)
 
 # Awards/Honors
 * 1st place recipient of Best Student Poster at AMS 100th Annual Meeting, Wayne Schubert
@@ -60,6 +60,8 @@ Education Symposium Honorable Mention, 2013
 overall GPA and an exceptional record in meteorology), University of South Alabama, 2013
 
 # Selected Conference Presentations and Proceedings
+
+* **Stanford, M. W.**, A. Varble, Z. Feng, J. Marquis, E. Jo, J. Fast, W. Gustafson, Jr., and Z. Zhang: Microphysical Process Contributions to the “Popcorn” Convective Precipitation Simulation Bias, *2025 Joint ARM User Facility and ASR PI Meeting*, Rockville, MD, 3-6 March 2025 (poster)
 * **Stanford, M. W.**, A. Fridlind, A. Ackerman, B. van Diedenhoven, Q. Xiao, J. Wang, T. Matsui, D. Hernandez-Deckers, and P. Lawson: Novel Airborne Polarimetry Retrievals as Constraints on Drop Size Distributions in Aerosol-Aware Large-Eddy Simulations and a Foundational Framework for Use of Space-based Retrievals to Evaluate Earth System Models, *U.S. CLIVAR Micro2Macro Workshop*, Laramie, Wyoming, 28-30 October, 2024 (poster)
 * **Stanford, M. W.**, A. Fridlind, A. Ackerman, Qian Xiao, Jian Wang, Toshihisa Matsui, and Bastiaan van Diedenhoven: Evaluating Aerosol-constrained Bulk- and Bin-simulated Drop Size Distributions against Aircraft Observations of Tropical Cumulus Congestus, *2024 Annual AMS Meeting*, Baltimore, MD, 31 January 2024 (talk)
 * **Stanford, M. W.**, A. Fridlind, I. Silber, A. Ackerman, G. Cesana, J. Mülmenstädt, A. Protat, S. Alexander, and A. McDonald: Evaluating Precipitation and Cloud Occurrence in the GISS-ModelE3 ESM against MICRE Observations, *2023 DOE Joint ARM User Facility and ASR PI Meeting*, Rockville, MD, 8 August 2023 **(invited talk)**
